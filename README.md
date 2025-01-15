@@ -33,6 +33,55 @@ Source: https://github.com/anuraghazra/github-readme-stats
 Source: https://github.com/tandpfun/skill-icons
 -->
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,htmx,java,kotlin,lua,md)]()</br>
-[![My Skills](https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino)]()</br>
-[![My Skills](https://skillicons.dev/icons?i=figma,idea,netlify,postman,notion,vscode)]()</br>
+<picture>
+  <!-- Dunkles Farbschema -->
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="
+      https://skillicons.dev/icons?i=js,html,css,c,cpp,htmx,java,kotlin,lua,md&theme=dark" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="
+      https://skillicons.dev/icons?i=js,html,css,c,cpp,htmx,java,kotlin,lua,md&theme=light" 
+  />
+  <img 
+    src="https://skillicons.dev/icons?i=js,html,css,c,cpp,htmx,java,kotlin,lua,md&theme=light" 
+    alt="My Skills" />
+</picture>
+
+<br/>
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="
+      https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino&theme=dark" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="
+      https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino&theme=light" 
+  />
+  <img 
+    src="https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino&theme=light" 
+    alt="My Skills" />
+</picture>
+
+<br/>
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="
+      https://skillicons.dev/icons?i=figma,idea,netlify,postman,notion,vscode&theme=dark" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="
+      https://skillicons.dev/icons?i=figma,idea,netlify,postman,notion,vscode&theme=light" 
+  />
+  <img 
+    src="https://skillicons.dev/icons?i=figma,idea,netlify,postman,notion,vscode&theme=light" 
+    alt="My Skills" />
+</picture>
