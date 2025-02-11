@@ -1,3 +1,5 @@
+![title](title_image.png)
+
 ## 👋 Hi, I'm Nils!
 <!--
 **NilsMorczinietz/NilsMorczinietz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
