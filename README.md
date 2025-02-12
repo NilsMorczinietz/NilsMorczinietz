@@ -58,7 +58,7 @@ Source: https://github.com/tandpfun/skill-icons
 -->
 
 <a href="#gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,htmx,java,kotlin,lua,md&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,htmx,java,kotlin,lua,md&theme=dark" alt="My Skills" />
   </br>
   <img src="https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino&theme=dark" alt="My Skills" />
   </br>
@@ -66,7 +66,7 @@ Source: https://github.com/tandpfun/skill-icons
 </a>
 
 <a href="#gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,htmx,java,kotlin,lua,md&theme=light" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,htmx,java,kotlin,lua,md&theme=light" alt="My Skills" />
   </br>
   <img src="https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino&theme=light" alt="My Skills" />
   </br>
