@@ -4,12 +4,20 @@ Ich liebe es, mit neuen Technologien zu experimentieren, kleine Projekte zu baue
 
 ### Hier sind einige Dinge, an denen ich aktuell arbeite:  
 
-- 🔥 Entwicklung von Softwarelösungen für das Feuerwehrwesen, speziell Leitstellen- und Einsatzmanagementsysteme. <a href="#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NilsMorczinietz&repo=locationPlanningTool&theme=dark" /></a><a href="#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NilsMorczinietz&repo=locationPlanningTool&theme=light" /></a>
-
+- 🔥 Entwicklung von Softwarelösungen für das Feuerwehrwesen, speziell Leitstellen- und Einsatzmanagementsysteme.
 - 🖥️ Web- und App-Entwicklung mit modernen Frameworks und Technologien.
 - 🎓 Informatik-Studium mit Fokus auf Softwareentwicklung und Systemarchitektur.
 
 📫 Ich freue mich über den Austausch mit anderen Entwicklern und Open-Source-Begeisterten! 🚀  
+
+## ⌨️ Current Project
+
+<a href="#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NilsMorczinietz&repo=locationPlanningTool&theme=dark" />
+</a>
+<a href="#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NilsMorczinietz&repo=locationPlanningTool&theme=light" />
+</a>
 
 ## 🏆 Stats
 
