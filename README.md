@@ -5,8 +5,8 @@ Ich liebe es, mit neuen Technologien zu experimentieren, kleine Projekte zu baue
 ### Hier sind einige Dinge, an denen ich aktuell arbeite:  
 
 - 🔥 Entwicklung von Softwarelösungen für das Feuerwehrwesen, speziell Leitstellen- und Einsatzmanagementsysteme.  
-- 🖥️ Web- und App-Entwicklung mit modernen Frameworks und Technologien.  
-- 🌍 Erforschung und Nutzung von BOS-Geoinformationssystemen zur Einsatzoptimierung.  
+- 🖥️ Web- und App-Entwicklung mit modernen Frameworks und Technologien.
+- 🎓 Informatik-Studium mit Fokus auf Softwareentwicklung und Systemarchitektur.
 
 📫 Ich freue mich über den Austausch mit anderen Entwicklern und Open-Source-Begeisterten! 🚀  
 
