@@ -16,18 +16,33 @@ Ich liebe es, mit neuen Technologien zu experimentieren, kleine Projekte zu baue
 Source: https://github.com/anuraghazra/github-readme-stats
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img 
     height=200 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=NilsMorczinietz&rank_icon=github&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=NilsMorczinietz&rank_icon=github&include_all_commits=true&theme=dark"
     />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat#gh-dark-mode-only">
   <img 
     height=200 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=NilsMorczinietz&layout=compact&langs_count=8&card_width=320"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=NilsMorczinietz&layout=compact&langs_count=8&card_width=320&theme=dark"
+  />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img 
+    height=200 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=NilsMorczinietz&rank_icon=github&include_all_commits=true&theme=light"
+    />
+</a>
+<a href="https://github.com/anuraghazra/convoychat#gh-light-mode-only">
+  <img 
+    height=200 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=NilsMorczinietz&layout=compact&langs_count=8&card_width=320&theme=light"
   />
 </a>
 
@@ -55,3 +70,7 @@ Source: https://github.com/tandpfun/skill-icons
   src="https://skillicons.dev/icons?i=figma,idea,netlify,postman,notion,vscode&theme=light" 
   alt="My Skills"
 />
+
+![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)
+![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
+
