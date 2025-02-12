@@ -1,89 +1,57 @@
 ![title](title_image.png)
 
-<!-- ## 👋 Hi, I'm Nils! -->
-<!--
-**NilsMorczinietz/NilsMorczinietz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich liebe es, mit neuen Technologien zu experimentieren, kleine Projekte zu bauen und an Open-Source-Projekten mitzuwirken. 🚀  
 
-Here are some ideas to get you started:
+### Hier sind einige Dinge, an denen ich aktuell arbeite:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔥 Entwicklung von Softwarelösungen für das Feuerwehrwesen, speziell Leitstellen- und Einsatzmanagementsysteme.  
+- 🖥️ Web- und App-Entwicklung mit modernen Frameworks und Technologien.  
+- 🌍 Erforschung und Nutzung von BOS-Geoinformationssystemen zur Einsatzoptimierung.  
+
+📫 Ich freue mich über den Austausch mit anderen Entwicklern und Open-Source-Begeisterten! 🚀  
+
+## 🏆 Stats
 
 <!--
 Source: https://github.com/anuraghazra/github-readme-stats
 -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=NilsMorczinietz&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img 
+    height=200 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=NilsMorczinietz&rank_icon=github&include_all_commits=true"
+    />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img 
+    height=200 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=NilsMorczinietz&layout=compact&langs_count=8&card_width=320"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=NilsMorczinietz&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=NilsMorczinietz&show_icons=true" />
-</picture>
+</a>
+
+## 💻 Tech Stack
 
 <!--
 Source: https://github.com/tandpfun/skill-icons
 -->
-## 💻 Tech Stack
-<picture>
-  <!-- Dunkles Farbschema -->
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="
-      https://skillicons.dev/icons?i=js,html,css,c,cpp,htmx,java,kotlin,lua,md&theme=dark" 
-  />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="
-      https://skillicons.dev/icons?i=js,html,css,c,cpp,htmx,java,kotlin,lua,md&theme=light" 
-  />
-  <img 
-    src="https://skillicons.dev/icons?i=js,html,css,c,cpp,htmx,java,kotlin,lua,md&theme=light" 
-    alt="My Skills" />
-</picture>
+
+<img 
+  src="https://skillicons.dev/icons?i=js,html,css,c,cpp,htmx,java,kotlin,lua,md&theme=light" 
+  alt="My Skills"
+/>
 
 <br/>
 
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="
-      https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino&theme=dark" 
-  />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="
-      https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino&theme=light" 
-  />
-  <img 
-    src="https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino&theme=light" 
-    alt="My Skills" />
-</picture>
+<img 
+  src="https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino&theme=light" 
+  alt="My Skills"
+/>
 
 <br/>
 
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="
-      https://skillicons.dev/icons?i=figma,idea,netlify,postman,notion,vscode&theme=dark" 
-  />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="
-      https://skillicons.dev/icons?i=figma,idea,netlify,postman,notion,vscode&theme=light" 
-  />
-  <img 
-    src="https://skillicons.dev/icons?i=figma,idea,netlify,postman,notion,vscode&theme=light" 
-    alt="My Skills" />
-</picture>
+<img 
+  src="https://skillicons.dev/icons?i=figma,idea,netlify,postman,notion,vscode&theme=light" 
+  alt="My Skills"
+/>
