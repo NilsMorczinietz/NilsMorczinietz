@@ -16,14 +16,12 @@ Ich liebe es, mit neuen Technologien zu experimentieren, kleine Projekte zu baue
 Source: https://github.com/anuraghazra/github-readme-stats
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<a href="#gh-dark-mode-only">
   <img 
     height=200 
     align="center" 
     src="https://github-readme-stats.vercel.app/api?username=NilsMorczinietz&rank_icon=github&include_all_commits=true&theme=dark"
     />
-</a>
-<a href="https://github.com/anuraghazra/convoychat#gh-dark-mode-only">
   <img 
     height=200 
     align="center" 
@@ -31,14 +29,12 @@ Source: https://github.com/anuraghazra/github-readme-stats
   />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<a href="#gh-light-mode-only">
   <img 
     height=200 
     align="center" 
     src="https://github-readme-stats.vercel.app/api?username=NilsMorczinietz&rank_icon=github&include_all_commits=true&theme=light"
     />
-</a>
-<a href="https://github.com/anuraghazra/convoychat#gh-light-mode-only">
   <img 
     height=200 
     align="center" 
