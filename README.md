@@ -12,10 +12,10 @@ Ich liebe es, mit neuen Technologien zu experimentieren, kleine Projekte zu baue
 
 ## ⌨️ Current Project
 
-<a href="#gh-dark-mode-only">
+<a href="https://github.com/NilsMorczinietz/locationPlanningTool#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NilsMorczinietz&repo=locationPlanningTool&theme=dark" />
 </a>
-<a href="#gh-light-mode-only">
+<a href="https://github.com/NilsMorczinietz/locationPlanningTool#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NilsMorczinietz&repo=locationPlanningTool&theme=light" />
 </a>
 
