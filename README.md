@@ -52,25 +52,18 @@ Source: https://github.com/anuraghazra/github-readme-stats
 Source: https://github.com/tandpfun/skill-icons
 -->
 
-<img 
-  src="https://skillicons.dev/icons?i=js,html,css,c,cpp,htmx,java,kotlin,lua,md&theme=light" 
-  alt="My Skills"
-/>
+<a href="#gh-dark-mode-only">
+  <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,htmx,java,kotlin,lua,md&theme=dark" alt="My Skills" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino&theme=dark" alt="My Skills" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=figma,idea,netlify,postman,notion,vscode&theme=dark" alt="My Skills" />
+</a>
 
-<br/>
-
-<img 
-  src="https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino&theme=light" 
-  alt="My Skills"
-/>
-
-<br/>
-
-<img 
-  src="https://skillicons.dev/icons?i=figma,idea,netlify,postman,notion,vscode&theme=light" 
-  alt="My Skills"
-/>
-
-![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)
-![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
-
+<a href="#gh-light-mode-only">
+  <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,htmx,java,kotlin,lua,md&theme=light" alt="My Skills" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino&theme=light" alt="My Skills" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=figma,idea,netlify,postman,notion,vscode&theme=light" alt="My Skills" />
+</a>
