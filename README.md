@@ -8,7 +8,7 @@ Ich liebe es, mit neuen Technologien zu experimentieren, kleine Projekte zu baue
 - 🖥️ Web- und App-Entwicklung mit modernen Frameworks und Technologien.
 - 🎓 Informatik-Studium mit Fokus auf Softwareentwicklung und Systemarchitektur.
 
-📫 Ich freue mich über den Austausch mit anderen Entwicklern und Open-Source-Begeisterten! 🚀  
+📫 Ich freue mich über den Austausch mit anderen Entwicklern! 🚀  
 
 ## ⌨️ Current Project
 
