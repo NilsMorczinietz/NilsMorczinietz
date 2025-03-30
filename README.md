@@ -10,7 +10,7 @@ Ich liebe es, mit neuen Technologien zu experimentieren, kleine Projekte zu baue
 
 📫 Ich freue mich über den Austausch mit anderen Entwicklern! 🚀  
 
-## ⌨️ Current Project
+## ⌨️ Current Projects
 
 <a href="https://github.com/NilsMorczinietz/locationPlanningTool#gh-dark-mode-only">
   <img 
