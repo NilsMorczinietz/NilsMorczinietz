@@ -24,6 +24,7 @@ Ich liebe es, mit neuen Technologien zu experimentieren, kleine Projekte zu baue
     src="https://github-readme-stats.vercel.app/api/pin/?username=NilsMorczinietz&repo=locationPlanningTool&theme=light" 
   />
 </a>
+
 <a href="https://github.com/NilsMorczinietz/baukastenTaktischeZeichen#gh-dark-mode-only">
   <img 
     align="center" 
@@ -34,6 +35,19 @@ Ich liebe es, mit neuen Technologien zu experimentieren, kleine Projekte zu baue
   <img 
     align="center" 
     src="https://github-readme-stats.vercel.app/api/pin/?username=NilsMorczinietz&repo=baukastenTaktischeZeichen&theme=light" 
+  />
+</a>
+
+<a href="https://github.com/NilsMorczinietz/learnToCallThe112#gh-dark-mode-only">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=NilsMorczinietz&repo=learnToCallThe112&theme=dark" 
+  />
+</a>
+<a href="https://github.com/NilsMorczinietz/learnToCallThe112#gh-light-mode-only">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=NilsMorczinietz&repo=learnToCallThe112&theme=light" 
   />
 </a>
 
