@@ -4,17 +4,20 @@ Nils Morczinietz
 
 ![title](title_image.png)
 
-Ich liebe es, mit neuen Technologien zu experimentieren, kleine Projekte zu bauen und an Open-Source-Projekten mitzuwirken. 🚀  
+🚀 Ich liebe es, mit neuen Technologien zu experimentieren, Projekte umzusetzen und an Open-Source-Projekten mitzuwirken. 
 
-### Hier sind einige Dinge, an denen ich aktuell arbeite:  
+Besonders interessiert mich die Entwicklung von Softwarelösungen im Feuerwehr- und Rettungswesen, darunter auch Leitstellensoftware, Einsatzunterstützungssysteme und GIS-basierte Anwendungen zur Lageführung und Einsatzkoordination. 🚒
 
-- 🔥 Entwicklung von Softwarelösungen für das Feuerwehrwesen, speziell Leitstellen- und Einsatzmanagementsysteme.
-- 🖥️ Web- und App-Entwicklung mit modernen Frameworks und Technologien.
-- 🎓 Informatik-Studium mit Fokus auf Softwareentwicklung und Systemarchitektur.
+### Schwerpunkte & Interessen
 
-📫 Ich freue mich über den Austausch mit anderen Entwicklern! 🚀  
+- Softwarelösungen für Feuerwehr
+- Moderne Softwareentwicklung mit aktuellen Technologien und Frameworks
+- Softwarearchitektur
+- Künstliche Intelligenz
 
-## ⌨️ Current Projects
+📫 Ich freue mich über den Austausch mit anderen Entwicklern!
+
+## Current Projects
 
 <a href="https://github.com/NilsMorczinietz/locationPlanningTool#gh-dark-mode-only">
   <img 
@@ -42,7 +45,7 @@ Ich liebe es, mit neuen Technologien zu experimentieren, kleine Projekte zu baue
   />
 </a>
 
-## 🏆 Stats
+## Stats
 
 <!--
 Source: https://github.com/anuraghazra/github-readme-stats
@@ -74,7 +77,7 @@ Source: https://github.com/anuraghazra/github-readme-stats
   />
 </a>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <!--
 Source: https://github.com/tandpfun/skill-icons
