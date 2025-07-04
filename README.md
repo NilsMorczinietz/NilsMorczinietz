@@ -6,7 +6,7 @@ Nils Morczinietz
 
 🚀 Ich liebe es, mit neuen Technologien zu experimentieren, Projekte umzusetzen und an Open-Source-Projekten mitzuwirken. 
 
-Besonders interessiert mich die Entwicklung von Softwarelösungen im Feuerwehr- und Rettungswesen, darunter auch Leitstellensoftware, Einsatzunterstützungssysteme und GIS-basierte Anwendungen zur Lageführung und Einsatzkoordination. 🚒
+Besonders interessiert mich die Entwicklung von Softwarelösungen im Feuerwehr- und Rettungswesen, darunter auch Leitstellensoftware, Einsatzunterstützungssysteme und (BOS) GIS-basierte Anwendungen zur Lageführung und Einsatzkoordination. 🚒
 
 ### Schwerpunkte & Interessen
 
