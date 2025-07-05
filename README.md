@@ -10,7 +10,7 @@ Besonders interessiert mich die Entwicklung von Softwarelösungen im Feuerwehr- 
 
 ### Schwerpunkte & Interessen
 
-- Softwarelösungen für Feuerwehr, Rettungswesen, Bevölkerungsschutz und Katastrophenhilfe
+- Softwarelösungen für Feuerwehr- und Rettungswesen, Bevölkerungsschutz und Katastrophenhilfe
 - Moderne Softwareentwicklung mit aktuellen Technologien und Frameworks
 - Softwarearchitektur
 - Künstliche Intelligenz
