@@ -32,6 +32,19 @@ Besonders interessiert mich die Entwicklung von Softwarelösungen im Feuerwehr- 
   />
 </a>
 
+<a href="https://github.com/NilsMorczinietz/alacogi#gh-dark-mode-only">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=NilsMorczinietz&repo=alacogi&theme=dark" 
+  />
+</a>
+<a href="https://github.com/NilsMorczinietz/alacogi#gh-light-mode-only">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=NilsMorczinietz&repo=alacogi&theme=light" 
+  />
+</a>
+
 ## Stats
 
 <!--
