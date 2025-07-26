@@ -86,7 +86,7 @@ Source: https://github.com/tandpfun/skill-icons
 <a href="#gh-dark-mode-only">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,htmx,java,kotlin,lua,md,py&theme=dark" alt="My Skills" />
   </br>
-  <img src="https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino,jest,svelte,express,vite&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino,jest,svelte,express,vite,spring,postgres&theme=dark" alt="My Skills" />
   </br>
   <img src="https://skillicons.dev/icons?i=figma,idea,netlify,postman,notion,vscode&theme=dark" alt="My Skills" />
 </a>
@@ -94,7 +94,7 @@ Source: https://github.com/tandpfun/skill-icons
 <a href="#gh-light-mode-only">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,htmx,java,kotlin,lua,md,py&theme=light" alt="My Skills" />
   </br>
-  <img src="https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino,jest,svelte,express,vite&theme=light" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=docker,firebase,git,npm,supabase,react,redux,nodejs,arduino,jest,svelte,express,vite,spring,postgres&theme=light" alt="My Skills" />
   </br>
   <img src="https://skillicons.dev/icons?i=figma,idea,netlify,postman,notion,vscode&theme=light" alt="My Skills" />
 </a>
