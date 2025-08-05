@@ -45,6 +45,19 @@ Besonders interessiert mich die Entwicklung von Softwarelösungen im Feuerwehr- 
   />
 </a>
 
+<a href="https://github.com/NilsMorczinietz/TSPX#gh-dark-mode-only">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=NilsMorczinietz&repo=TSPX&theme=dark" 
+  />
+</a>
+<a href="https://github.com/NilsMorczinietz/TSPX#gh-light-mode-only">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=NilsMorczinietz&repo=TSPX&theme=light" 
+  />
+</a>
+
 ## Stats
 
 <!--
