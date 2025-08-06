@@ -45,6 +45,19 @@ Besonders interessiert mich die Entwicklung von Softwarelösungen im Feuerwehr- 
   />
 </a>
 
+<a href="https://github.com/THK-ADV/modules#gh-dark-mode-only">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=THK-ADV&repo=modules&theme=dark" 
+  />
+</a>
+<a href="https://github.com/THK-ADV/modules#gh-light-mode-only">
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=THK-ADV&repo=modules&theme=light" 
+  />
+</a>
+
 ## Stats
 
 <!--
